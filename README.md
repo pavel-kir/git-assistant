@@ -1,5 +1,4 @@
 # Подсказки по Git.
----
 1. git version - текущая версия Git
 2. git config --global user.name "User Namovich" - запись своего ника в .gitconfig
 3. git config --global user.email username@yandex.ru - запись почты в .gitconfig
